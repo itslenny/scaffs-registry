@@ -1,0 +1,11 @@
+{
+  "name": "@scaffs/angular",
+  "version": "1.0.0",
+  "description": "Scaffs for quickly generating files for angular (2+)",
+  "author": "Lenny Urbanowski",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/itslenny/scaffs.git"
+  }  
+}

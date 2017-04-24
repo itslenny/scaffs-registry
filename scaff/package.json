@@ -1,0 +1,11 @@
+{
+  "name": "@scaffs/scaff",
+  "version": "0.0.2",
+  "description": "We heard you like scaffs so we made a scaff so you can put scaffs in your scaffs. Scaff.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lenny Urbanowski",
+  "license": "MIT",
+  "private": false
+}

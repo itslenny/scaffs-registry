@@ -1,0 +1,9 @@
+{
+    "variables": [
+        "name",
+        {
+            "name": "styleext",
+            "prompt": "Enter extention for style sheet (e.g css, scss, less)"
+        }
+    ]
+}
