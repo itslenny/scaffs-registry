@@ -1,5 +1,7 @@
 {
     "scaffsPaths": [
         "./"
-    ]
+    ],
+    "indention": "    ",
+    "header": "/*\nblah blah copyright\nrights reserved and such\nmore stuff\n*/\n\n"
 }
