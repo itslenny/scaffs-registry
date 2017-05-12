@@ -1,6 +1,6 @@
 {
   "name": "@scaffs/angular",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Scaffs for quickly generating files for angular (2+)",
   "author": "Lenny Urbanowski",
   "license": "MIT",
